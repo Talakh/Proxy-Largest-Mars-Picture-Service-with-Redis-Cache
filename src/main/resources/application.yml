@@ -1,0 +1,6 @@
+spring:
+  cache:
+    type: redis
+
+server:
+  port: 8081
